@@ -1,0 +1,24 @@
+{
+  "name": "simple-weather-cli",
+  "version": "1.0.0",
+  "description": "Simple CLI for getting weather",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npxrus/simple-weather-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "weather"
+  ],
+  "author": "Evgeniy Mironov (@npxrus)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/npxrus/simple-weather-cli/issues"
+  },
+  "homepage": "https://github.com/npxrus/simple-weather-cli#readme"
+}
