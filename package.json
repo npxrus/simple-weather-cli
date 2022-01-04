@@ -2,8 +2,11 @@
   "name": "simple-weather-cli",
   "version": "1.0.0",
   "description": "Simple CLI for getting weather",
-  "main": "index.js",
-  "bin": "./index.js",
+  "main": "simple-weather.js",
+  "bin": {
+    "simple-weather": "simple-weather.js"
+  },
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
