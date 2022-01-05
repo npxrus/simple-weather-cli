@@ -1,6 +1,6 @@
 {
   "name": "simple-weather-cli",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Simple CLI for getting weather",
   "main": "simple-weather.js",
   "bin": {
